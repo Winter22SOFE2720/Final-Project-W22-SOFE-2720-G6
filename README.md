@@ -1,4 +1,4 @@
-Project Description:
+## Project Description:
 
 Due to the Covid-19 pandemic, our store has seen a dramatic decrease in recent sales due to people being quarantined and overall not feeling safe to leave their homes.
 This website was created in response to that situation, and will hopefully attract more attention to our store. 
