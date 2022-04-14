@@ -7,11 +7,11 @@ It allows customers to see what products we have low in stock and get delivered 
 The website will also contain our weekly digital flyer, showcasing discounts on our products that will get more customers to shop with us.
 
 ## Content
-[Source Code](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Code)
-[Design](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Design)
-[Requirements](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Requirements)
-[Test Case](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Test%20Case)
-[Use Cases](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Use%20Cases)
+[Source Code](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Code)  
+[Design](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Design)  
+[Requirements](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Requirements)  
+[Test Case](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Test%20Case)  
+[Use Cases](https://github.com/Winter22SOFE2720/Final-Project-W22-SOFE-2720-G6/tree/main/Use%20Cases)  
 
 ## Group members
 
